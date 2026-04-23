@@ -1,5 +1,0 @@
-{
-  "/dashboard/[user]": [
-    "static/chunks/pages/dashboard/[user].js"
-  ]
-}
