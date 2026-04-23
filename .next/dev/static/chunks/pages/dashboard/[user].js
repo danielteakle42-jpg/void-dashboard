@@ -1,0 +1,12 @@
+__turbopack_load_page_chunks__("/dashboard/[user]", [
+  "static/chunks/node_modules_next_dist_compiled_0cifm6t._.js",
+  "static/chunks/node_modules_next_dist_shared_lib_0~pg0mt._.js",
+  "static/chunks/node_modules_next_dist_client_0pe1dg-._.js",
+  "static/chunks/node_modules_next_dist_0k8zr~w._.js",
+  "static/chunks/node_modules_next_router_02w3nnr.js",
+  "static/chunks/node_modules_react-dom_0bruynb._.js",
+  "static/chunks/node_modules_0zd3gd8._.js",
+  "static/chunks/[root-of-the-server]__0qwk2.s._.js",
+  "static/chunks/pages_dashboard_[user]_07xvfw~.js",
+  "static/chunks/turbopack-pages_dashboard_[user]_10ofu-0.js"
+])

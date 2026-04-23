@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Danie/Downloads/VOID-SUPABASE-FULL/pages/_document.js"],"sourcesContent":["import { Html, Head, Main, NextScript } from 'next/document'\r\n\r\nexport default function Document() {\r\n  return (\r\n    <Html lang=\"en\" data-scroll-behavior=\"smooth\">\r\n      <Head>\r\n        {/* 🔥 optional performance boost */}\r\n        <meta charSet=\"utf-8\" />\r\n      </Head>\r\n\r\n      <body>\r\n        <Main />\r\n        <NextScript />\r\n      </body>\r\n    </Html>\r\n  )\r\n}"],"names":["Document","lang","charSet"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,qKAAC,iIAAI;QAACC,MAAK;QAAK,wBAAqB;;0BACnC,qKAAC,iIAAI;0BAEH,cAAA,qKAAC;oBAAKC,SAAQ;;;;;;;;;;;0BAGhB,qKAAC;;kCACC,qKAAC,iIAAI;;;;;kCACL,qKAAC,uIAAU;;;;;;;;;;;;;;;;;AAInB"}}]
+}
